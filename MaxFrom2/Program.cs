@@ -1,4 +1,4 @@
-﻿// Прием двух чисел и вывод большего
+﻿// Задача 1. Прием двух чисел и вывод большего
 
 Console.WriteLine("Введите первое число");
 double number1 = Convert.ToDouble(Console.ReadLine());
