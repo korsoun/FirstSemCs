@@ -1,4 +1,4 @@
-﻿// взять 3 числа и вывести максимальное
+﻿// Задача 2. Взять 3 числа и вывести максимальное
 
 Console.WriteLine("Введите первое число");
 double number1 = Convert.ToDouble(Console.ReadLine());
